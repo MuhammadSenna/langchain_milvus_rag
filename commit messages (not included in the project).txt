@@ -1,0 +1,10 @@
+1- feat: Add REST API controller
+
+after adding RAGController in controller folder 
+
+2- config: Add environment variables configuration
+
+after adding EnvironmentVariabels in project in root 
+
+3- feat: Add RAG Application (entry point) 
+after adding RAGApplication in \src\main\java\com\mohamed\langchain_milvus_rag
